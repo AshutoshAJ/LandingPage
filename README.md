@@ -2,6 +2,8 @@
 
 # Tic Tac Toe
 
+[Available on Google Play Store](https://play.google.com/store/apps/details?id=com.crazzzydev.tictactoe)
+
 <img src="https://github.com/AshutoshAJ/ProjectScreenshots/blob/master/Tic%20Tac%20Toe/Tic%20Tac%20Toe%20Splash.jpg" width="200px" height="400px">  
 <img src="https://github.com/AshutoshAJ/ProjectScreenshots/blob/master/Tic%20Tac%20Toe/Tic%20Tac%20Toe%20Home.jpg" width="200px" height="400px">  
 <img src="https://github.com/AshutoshAJ/ProjectScreenshots/blob/master/Tic%20Tac%20Toe/Tic%20Tac%20Toe%20PVA.jpg" width="200px" height="400px">  
