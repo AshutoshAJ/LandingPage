@@ -4,7 +4,7 @@
 
 [Available on Google Play Store](https://play.google.com/store/apps/details?id=com.crazzzydev.tictactoe)
 
-<img src="https://github.com/AshutoshAJ/ProjectScreenshots/blob/master/Tic%20Tac%20Toe/Tic%20Tac%20Toe%20All.png" width="1400px" height="800px">  
+<img src="https://github.com/AshutoshAJ/ProjectScreenshots/blob/master/Tic%20Tac%20Toe/Tic%20Tac%20Toe%20All.png" width="1200px" height="700px">  
 
 # Jumbled Words
 
